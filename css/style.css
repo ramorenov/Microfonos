@@ -54,3 +54,7 @@ article {
    border-radius: 10px;
    }
 
+article:first-child {
+  background: #2FABC6;
+  
+}
